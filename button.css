@@ -14,7 +14,7 @@
 }
 
 .wrapper {
-    backdrop-filter: -webkit-blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
